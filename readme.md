@@ -1,6 +1,3 @@
-# 안녕하세요
+# Yunsu Han's Repository
 
-## 한 윤 수 github 입니다. 
-
-### 데헷
-
+### Yunsu Han, Bugil Class of 2021
